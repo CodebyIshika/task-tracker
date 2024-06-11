@@ -38,4 +38,8 @@ The Todo App allows users to add, edit, mark as complete, and delete tasks. It p
    - Click the "Delete" icon next to the task you want to delete.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
+## Getting Started
+
+To use the Todo App, simply [open it in your web browser](https://codebyishika.github.io/task-tracker/) and start managing your tasks.
+
 
